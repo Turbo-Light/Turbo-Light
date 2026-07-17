@@ -1,5 +1,5 @@
 # 💫 TurboLight here!!
-- 🎓 B.Tech CSE student at VIT Chennai.<br>- 💻 Building full-stack applications using React, Node.js, Express, and MongoDB.<br>- 🤖 Exploring AI-powered software and intelligent web applications.<br>- 📚 Learning by building projects that solve real-world problems.<br>- 🚀 Open to collaboration and always excited to learn something new.
+-🎓 B.Tech CSE student at VIT Chennai.<br>- 💻 Building full-stack applications using React, Node.js, Express, and MongoDB.<br>- 🤖 Exploring AI-powered software and intelligent web applications.<br>- 📚 Learning by building projects that solve real-world problems.<br>- 🚀 Open to collaboration and always excited to learn something new.
 
 
 
